@@ -2,9 +2,11 @@
 A game were the player has to guess the numbers with Crystals which have values of numbers.
 
 
-## What Is Used:
-HTML, CSS , JavaScript & JQuery. <br/>
-Bootstrap is also used for styling. 
+## Tools/Languages Used:
+- HTML/CSS
+- Bootstrap
+- JavaScript  
+- JQuery
 
 ## How The App Works:
 
