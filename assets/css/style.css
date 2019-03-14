@@ -1,8 +1,30 @@
 /* General Styles
    ========================================================================== */ 
+	 html, body {
+   
+    height: 100%;
+}
+	 
+	 
+	 /* Sets the padding of the score text */
    #score{
        padding-bottom: 20px;
-   }
+	 }
+	 body{
+		 font-family: 'Unica One', cursive;
+		 min-height: 100px;
+	 }
+	 .container{
+		background-color: #ffffff;
+		transform: translateY(2em);
+    margin-top: 1em;
+    padding: 3em;
+
+	 }
+
+	 .btn{
+		 background: none;
+	 }
 
 
 /* ========================================================================== */ 
@@ -15,16 +37,32 @@
 
 /* ========================================================================== */ 
 
+/* Font Styles
+========================================================================== */ 
+.crystalheaderfont{
+    font-family: 'Rock Salt', cursive;
 
+}
+
+
+
+
+
+/* ========================================================================== */ 
 
 
 /* Image Styles
 ========================================================================== */ 
 
-#crystal-4-image{
-    height: 6em;
-    width:auto;
-    
+.imgbtn{
+	height: 10em;
+
+}
+
+.background-image{
+	background-image: url("https://images.pexels.com/photos/1121123/pexels-photo-1121123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+
+height: 100%;
 }
 /* ========================================================================== */ 
 

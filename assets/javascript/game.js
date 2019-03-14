@@ -20,7 +20,7 @@ var score = 0;
 
 //__________________________________________________________
 
-$(document).ready(function() {
+	$(document).ready(function(){
 	
 	// Displays the random number in the div with the ID = computerscore.
 	$("#computerscore").text(random);
@@ -38,7 +38,7 @@ $(document).ready(function() {
      	random = Math.floor(Math.random() * 120) + 19;
 			$("#computerscore").text(random);
 			
-			//Reset the random Numbers
+			//Reset the buttons to a different random Number
 			 num1 = Math.floor(Math.random()*12+1);
 			 num2 = Math.floor(Math.random()*12+1);
 			 num3 = Math.floor(Math.random()*12+1);
@@ -54,7 +54,7 @@ $(document).ready(function() {
 		// A function with the Conditional Statements for the Wins & Losses.
 			function winVsLose(){
 				//If score is correct , you WIN.
-				if (score === random) {
+				if (score === random){
 					wins++;
 			  	$("#wins").html(wins);
 					
@@ -63,7 +63,7 @@ $(document).ready(function() {
 		 		}
 		 
 		 		// If score is goes above the target number , you LOSE.
-		 		else if (score >= random) {
+		 		else if (score >= random){
 					losses++;
 					$("#losses").text(losses);
 					
