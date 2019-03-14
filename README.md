@@ -1,9 +1,9 @@
 # Crystal Collector
-A Game were the player has to guess the numbers with Crystals which have values of numbers.
+A game were the player has to guess the numbers with Crystals which have values of numbers.
 
 
 ## What Is Used:
-HTML, CSS , JavaScript & JQuery.
+HTML, CSS , JavaScript & JQuery. <br/>
 Bootstrap is also used for styling. 
 
 ## How The App Works:
