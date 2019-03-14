@@ -1,13 +1,12 @@
-# unit-4-game
-## Crystal Collector
+# Crystal Collector
 A Game were the player has to guess the numbers with Crystals which have values of numbers.
 
 
-### What Is Used:
+## What Is Used:
 HTML, CSS , JavaScript & JQuery.
 Bootstrap is also used for styling. 
 
-### Here's how the app works:
+## Here's how the app works:
 
 - There will be four crystals displayed as buttons on the page.
 
