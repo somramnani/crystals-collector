@@ -6,7 +6,7 @@ A Game were the player has to guess the numbers with Crystals which have values 
 HTML, CSS , JavaScript & JQuery.
 Bootstrap is also used for styling. 
 
-## Here's how the app works:
+## How The App Works:
 
 - There will be four crystals displayed as buttons on the page.
 
