@@ -1,5 +1,5 @@
 # Crystal Collector
-A game where the player has to guess the numbers with Crystals which have values of numbers.
+A game where the player has to guess the numbers with Crystals which values are numbers.
 
 
 ## Tools/Languages Used:
