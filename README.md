@@ -2,13 +2,13 @@
 A game where the player has to guess the numbers with Crystals which values are numbers.
 
 
-## Tools/Languages Used:
+## Tools/Languages Used
 - HTML/CSS
 - Bootstrap
 - JavaScript  
 - JQuery
 
-## How The App Works:
+## How The App Works
 
 - There will be four crystals displayed as buttons on the page.
 
