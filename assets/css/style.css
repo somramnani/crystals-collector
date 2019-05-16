@@ -26,6 +26,20 @@
 		 background: none;
 	 }
 
+	 #crystal2 {
+		 padding-left: 3em;
+	 }
+
+	 #crystal3{
+		 padding-left: 5em
+
+	 }
+
+	 #crystal4{
+		padding-left: 7em;
+
+	 }
+
 
 /* ========================================================================== */ 
 
@@ -56,6 +70,7 @@
 
 .imgbtn{
 	height: 10em;
+
 
 }
 
