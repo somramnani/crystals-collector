@@ -1,4 +1,4 @@
-# ![](assets/images/crystalcollector.PNG)
+ ![](assets/images/crystalcollector.PNG)
 
 ## Overview
 A game where the player has to guess the numbers with Crystals which values are numbers.
